@@ -1,0 +1,17 @@
+{
+    "name": "rhko/user-bridge",
+    "autoload": {
+        "psr-4": {
+            "Rhko\\UserBridge\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rhko",
+            "email": "hk.tfr91@gmail.com"
+        }
+    ],
+    "require": {
+        "laravel/framework": "^8.50"
+    }
+}
